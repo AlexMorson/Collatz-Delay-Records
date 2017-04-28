@@ -85,7 +85,7 @@ void findRecordsSlow() {
 }
 
 int main() {
-	k = 23;
+	k = 25;
 	c = new unsigned int[1<<k];
 	d = new unsigned int[1<<k];
 	e = new unsigned int[1<<k];
